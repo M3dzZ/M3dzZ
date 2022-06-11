@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, i'm Mehdi</h1>
 
-<h3 align="center">I am a French junior web developer studying in Paris</h3>
+<h3 align="center">I am a French junior web developer studying in Paris.</h3>
 
 <h3 align="center">Languages and Tools</h3>
 
