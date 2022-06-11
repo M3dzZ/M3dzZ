@@ -10,7 +10,6 @@
 <img src="https://img.icons8.com/color/344/javascript--v1.png" width="60px">
 <img src="https://img.icons8.com/color/344/sass.png" width="60px">
 <img src="https://img.icons8.com/color/344/python--v1.png" width="60px">
-<img src="https://jeremynoble.net/public/img/php.png" width="60px">
 <img src="https://img.icons8.com/color/344/mysql-logo.png" width="60px">
 <img src="https://img.icons8.com/color/344/figma--v1.png" width="60px">
 </p>
