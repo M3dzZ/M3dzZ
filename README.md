@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, i'm Mehdi</h1>
 
-<!--
-**M3dzZ/M3dzZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">I am a French junior web developer studying in Paris</h3>
 
-Here are some ideas to get you started:
+<h3 align="center">Languages and Tools</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://img.icons8.com/color/344/html-5--v1.png" width="60px">
+<img src="https://img.icons8.com/color/344/css3.png" width="60px">
+<img src="https://img.icons8.com/color/344/javascript--v1.png" width="60px">
+<img src="https://img.icons8.com/color/344/sass.png" width="60px">
+<img src="https://img.icons8.com/color/344/python--v1.png" width="60px">
+<img src="https://jeremynoble.net/public/img/php.png" width="60px">
+<img src="https://img.icons8.com/color/344/mysql-logo.png" width="60px">
+<img src="https://img.icons8.com/color/344/figma--v1.png" width="60px">
+</p>
